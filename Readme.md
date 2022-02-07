@@ -1,16 +1,16 @@
 # Intract with Smart contract using Golang
 
 ## Setup
-1. Install Ganache -> `https://trufflesuite.com/ganache/`
+1. Install Ganache -> [Download](https://trufflesuite.com/ganache/)
 
-2. Install  Solidity -> `https://docs.soliditylang.org/en/v0.8.2/installing-solidity.html`
+2. Install  Solidity -> [Docs](https://docs.soliditylang.org/en/v0.8.2/installing-solidity.html)
 ```
 sudo add-apt-repository ppa:ethereum/ethereum
 sudo apt-get update
 sudo apt-get install solc
 ```
 
-3. Install  Geth -> `https://geth.ethereum.org/docs/install-and-build/installing-geth`
+3. Install  Geth -> [Docs](https://geth.ethereum.org/docs/install-and-build/installing-geth)
 ```
 sudo add-apt-repository -y ppa:ethereum/ethereum
 sudo apt-get update
